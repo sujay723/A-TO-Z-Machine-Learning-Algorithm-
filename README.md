@@ -150,20 +150,6 @@ jupyter nbconvert --to notebook --execute Machine_Learning.ipynb
 
 ---
 
-## 🤝 Contributing  
-
-Contributions are welcome!  
-
-1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature-branch`)  
-3. Commit changes (`git commit -m "Added new feature"`)  
-4. Push branch (`git push origin feature-branch`)  
-5. Open a Pull Request  
-
-Please follow the [Contributor Covenant](https://www.contributor-covenant.org/) guidelines.  
-
----
-
 ## 🛠️ Troubleshooting  
 
 - **Jupyter not launching** → Run `pip install notebook jupyterlab`.  
@@ -191,17 +177,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 📚 Citation  
-
-If you use this notebook in research or teaching, please cite:  
-
-```
-@misc{yourname2025MLNotebook,
-  author       = {Your Name},
-  title        = {Machine Learning Project Notebook},
-  year         = {2025},
-  publisher    = {GitHub},
-  howpublished = {\url{https://github.com/your-username/your-repo-name}}
-}
-```
-
+**Sujay Roy**
